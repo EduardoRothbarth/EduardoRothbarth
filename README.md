@@ -5,6 +5,8 @@ No 2º semestre de 2023 (3º semestre do curso) estamos tendo contato com HTML, 
 Ao concluir o curso em dezembro 2024, vou migrar para a área de infra de redes, estudar para a certificação CCNA da CISCO.
 Não irei atuar como dev/programador.. não é para minha pessoa.
 
+Em novembro de 2024 obtive o certificado Azure Fundamental (AZ-900).
+
 Mesmo assim, me interessa conhecer, ouvir e ver; saber como as coisas funcionam é interessante.
 
 Meu linkedin é https://www.linkedin.com/in/eduardo-rothbarth-623127242/
